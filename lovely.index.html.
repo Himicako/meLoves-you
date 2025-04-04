@@ -1,0 +1,45 @@
+<!DOCTYPE html><html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For My Kaidy ♡</title>
+    <style>
+        body {
+            background-color: #ffe6f2;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            padding: 50px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        h1 {
+            color: #ff66b2;
+        }
+        p {
+            color: #333;
+        }
+        .heart {
+            font-size: 50px;
+            color: red;
+            animation: pulse 1s infinite alternate;
+        }
+        @keyframes pulse {
+            from { transform: scale(1); }
+            to { transform: scale(1.2); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>For My Dearest Kaidy ♡</h1>
+        <p>Hai Kaidy! Ini adalah hadiah spesial untuk kamu.</p>
+        <p>Semoga setiap hari kita selalu penuh kebahagiaan dan cinta.</p>
+        <div class="heart">❤️</div>
+    </div>
+</body>
+</html>
